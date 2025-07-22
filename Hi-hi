@@ -210,7 +210,7 @@ local function triggerScene(devName)
 
     delay(20, function()
         local soundPsychotic = Instance.new("Sound", workspace)
-        soundPsychotic.SoundId = "rbxassetid://138480372357526"
+        soundPsychotic.SoundId = "rbxassetid://70961757130479"
         soundPsychotic.Volume = 1.5
         soundPsychotic:Play()
 
